@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8D7CE2C3965B99B0C42FA1E5D8FCF386AABDB8AE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8D7CE2C3965B99B0C42FA1E5D8FCF386AABDB8AE" : 9223372036854775807,
+    "BF215E29C50E9D42A8913C4D0216BE101AD0CFD5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A9D25BDD-7394-491A-BF55-95D3F7E900DB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8D7CE2C3965B99B0C42FA1E5D8FCF386AABDB8AE" : "iOS-sdk\/",
+    "BF215E29C50E9D42A8913C4D0216BE101AD0CFD5" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AdNomusTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AdNomusTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gitlab.com\/skyscreper\/adnomus-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8D7CE2C3965B99B0C42FA1E5D8FCF386AABDB8AE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gitlab.com\/skyscreper\/adnomus-sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BF215E29C50E9D42A8913C4D0216BE101AD0CFD5"
+    }
+  ]
+}

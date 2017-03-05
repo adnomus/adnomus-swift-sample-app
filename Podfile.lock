@@ -1,0 +1,21 @@
+PODS:
+  - AdnomusSdk (1.0.0)
+
+DEPENDENCIES:
+  - AdnomusSdk (from `http://gitlab.adnomus.com/gbarbalinardo/adnomus-ios-sdk.git`)
+
+EXTERNAL SOURCES:
+  AdnomusSdk:
+    :git: http://gitlab.adnomus.com/gbarbalinardo/adnomus-ios-sdk.git
+
+CHECKOUT OPTIONS:
+  AdnomusSdk:
+    :commit: ced258cbe21d0d48505cc6289dc23ab4513b42af
+    :git: http://gitlab.adnomus.com/gbarbalinardo/adnomus-ios-sdk.git
+
+SPEC CHECKSUMS:
+  AdnomusSdk: 99bbf90e4d99c6fe99ca16c64683b8cd3a24c855
+
+PODFILE CHECKSUM: 3325f61a298d7e743e6920cf53b6081afdd62bef
+
+COCOAPODS: 1.2.0
